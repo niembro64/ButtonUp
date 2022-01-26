@@ -1,0 +1,28 @@
+div {
+    margin: 5px;
+}
+
+#search {
+    color: green;
+    border-color: green;
+    border-radius: 15px;
+    border-collapse: collapse;
+    padding: 5px 50px;
+}
+
+#plus {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    background-color: green;
+    border-radius: 100%;
+}
+
+#account{
+    background-color: skyblue;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    box-shadow: 5px 10px #000000;
+    border-color: black;
+}
